@@ -2,4 +2,4 @@
 
 ## This file will house all of my homework (excluding capstone projects)
 ## I do while taking the Data Science Specialization from
-## John Hopkins University on coursera
+## John Hopkins University on Coursera
